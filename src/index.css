@@ -1,4 +1,4 @@
-:root {
+/* :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 24px;
@@ -67,4 +67,12 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+} */
+
+.label-active {
+  /* color: #646cff; */
+  /* border-color: #64ff9d; */
+  background: rgba(255, 254, 254, 0.3);
+  box-shadow: 0 0 0 1px white, 0 0 0 4px rgba(100, 108, 255, 0.3);
+  color: white
 }
